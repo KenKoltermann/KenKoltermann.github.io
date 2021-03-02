@@ -1,10 +1,10 @@
 ---
 title: "Exploring Branch Predictors for Constructing Transient Execution Trojans"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-04-19-Transient
 excerpt: ''
-date: 2009-10-01
-venue: 'ASPLOS 2020'
+date: 2020-04-19
+venue: 'ASPLOS'
 paperurl: 'http://www.cs.wm.edu/~dmitry/assets/files/zhang2020exploring.pdf'
 citation: 'Download at: https://dl.acm.org/doi/10.1145/3373376.3378526'
 ---
